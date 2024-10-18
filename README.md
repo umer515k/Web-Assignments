@@ -1,7 +1,15 @@
-**Weather App**
+## Weather App
 Overview
-This project is a simple Weather Web Application built using HTML, CSS, and JavaScript. It allows users to:
 
+## Pages
+webapp.html
+webapp.css
+webapp.js
+tables.html
+tables.css
+tables.js
+
+This project is a simple Weather Web Application built using HTML, CSS, and JavaScript. It allows users to:
 Search for weather information by location.
 View current temperature, humidity, wind speed, and weather conditions.
 Display weather forecasts for the next five days.
@@ -51,7 +59,7 @@ Live Server serves the HTML, CSS, and JS files and automatically refreshes the b
 The side panel (on the left side) includes a quick summary of weather details such as "Feels Like" temperature, humidity, and wind.
 It also contains navigation links to switch between the Dashboard and Tables page.
 
-How to Run the Project?
+## How to Run the Project?
 To run this application locally, you'll need to follow these steps:
 1-Download the project and unzip it.
 2-Open the project using vs code.
